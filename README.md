@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working on [card](https://github.com/somerandomdev49/card), [sbloc](https://github.com/somerandomdev49/sbloc)
-I like making :abc: _languages_!
+Working on [card](https://github.com/somerandomdev49/card), [Mike's Entertainment Console](https://github.com/somerandomdev49/MEC) and [Bear](https://github.com/bear-lang/Bear)<br/>
+I like making _languages_ :abc:!
