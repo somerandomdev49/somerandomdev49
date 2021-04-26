@@ -1,4 +1,4 @@
-### ✨ _Hello_ ✨ :doughnut:
+### _Hello_ :doughnut:
 
 <!--
 **somerandomdev49/somerandomdev49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working on [card](https://github.com/somerandomdev49/card), [Mike's Entertainment Console](https://github.com/somerandomdev49/MEC) and [Bear](https://github.com/bear-lang/Bear)<br/>
-I like making _languages_ :abc:!
+I'm currently working on many things at once Working on [microl](https://github.com/somerandomdev49/microl)
+I like making programming languages!
