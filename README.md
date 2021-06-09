@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on many things at once Working on [microl](https://github.com/somerandomdev49/microl)
-I like making programming languages!
+I'm currently working on many things at once!
+but mainly on [microl](https://github.com/somerandomdev49/microl)
+
+
+<sub>I like making programming languages!</sub>
