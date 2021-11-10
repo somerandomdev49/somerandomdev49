@@ -16,7 +16,18 @@ Here are some ideas to get you started:
 -->
 
 I'm currently working on many things at once!
-but mainly on [microl](https://github.com/somerandomdev49/microl)
+But mainly on a C++ game (private repo)
 
+Some of my finished projects:
+* [microl](https://github.com/somerandomdev49/microl) - a language written in C
+* [fwdraw](https://github.com/somerandomdev49/fwdraw) - OpenGL rendering engine
 
-<sub>I like making programming languages!</sub>
+Languages I can work with:
+* C++
+* C
+* JavaScript/TypeScript
+* Python
+* C#
+* Java
+
+ <sub>I know more, but these are thr main ones</sub>
