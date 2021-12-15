@@ -22,15 +22,18 @@ Some of my finished projects:
 * [microl](https://github.com/somerandomdev49/microl) - a language written in C
 * [fwdraw](https://github.com/somerandomdev49/fwdraw) - OpenGL rendering engine
 
-Languages I can work with:
-* C++
+Language I mosly work with:
 * C
+* C++
 * JavaScript/TypeScript
-* Python
-* C#
-* Java
 
- <sub>I know more, but these are thr main ones</sub>
+Languages I can also work with:
+* Rust
+* Python
+* Java
+* C#
+
+ <sub>I know more, but these are my best</sub>
 
 
 
