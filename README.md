@@ -28,15 +28,3 @@ Side-projects I'm working on:
 
 > Basically all repos here are unfinshed projects.
 
-Language I mosly work with:
-* C
-* C++
-* JavaScript/TypeScript
-
-Languages I can also work with:
-* Rust
-* Python
-* Java
-* C#
-
- <sub>I know more, but these are my best</sub>
