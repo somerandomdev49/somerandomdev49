@@ -22,7 +22,7 @@ Some of my *finished* (no) projects:
 * [microl](https://github.com/somerandomdev49/microl) - an interpreted language written in C
 * [mini-core](https://github.com/somerandomdev49/mini-core) - somewhat complete OpenGL rendering engine
 
-Side-projects I'm working on:
+Side-projects I'm working on (no):
 * [tinylang](https://github.com/somerandomdev49/tinylang) - golfing programing language in C with it's own register VM. (very WIP)
 * [wlang](https://github.com/somerandomdev49/wlang) - more serious programming language in C that compiles to x86_64 (less WIP)
 
